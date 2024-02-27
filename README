@@ -1,0 +1,4 @@
+There is still some clean-up to do:
+The ipynb notebooks with _fixed are there because the other notebooks would not show up as previews
+Most of the files expect the training notebooks should work
+The image datasets on the repo are not the full size of the datasets. They can be downloaded online
